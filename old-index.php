@@ -24,7 +24,7 @@ AA    <!DOCTYPE html>
 
 
     <link rel="shortcut icon" href="favicon.ico">
-    <script crossorigin="anonymous" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" src="https://lib.baomitu.com/jquery/2.2.4/jquery.min.js"></script> <script src="https://api.vv1234.cn/js/fuqiang.js"></script>
+    <script crossorigin="anonymous" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" src="https://lib.baomitu.com/jquery/2.2.4/jquery.min.js"></script> <script src="https://localhostt/js/fuqiang.js"></script>
     <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-components-web/3.0.0/material-components-web.min.css" integrity="sha256-sljrYCrrEK55ECAXF6gHxng8RLXHZYpsblwhH4P7bsM=" crossorigin="anonymous" />-->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/material-components/material-components-web@3.0.0/packages/material-components-web/material-components-web.scss" crossorigin="anonymous" /> -->
     <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/material-components-web@3.0.0/dist/material-components-web.min.css" crossorigin="anonymous" />-->
@@ -264,7 +264,7 @@ AA    <!DOCTYPE html>
     <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />-->
    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/necolas/normalize.css@master/normalize.css" crossorigin="anonymous" />-->
    <link href="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-y/normalize/8.0.1/normalize.css" type="text/css" rel="stylesheet" />
-    <script src="//api.vv1234.cn/ip/api.php?action=getip&code=js&token=test&from=llxhq"></script>
+    <script src="//localhostt/ip/api.php?action=getip&code=js&token=test&from=llxhq"></script>
 </head>
 
 <body>
@@ -399,10 +399,10 @@ AA    <!DOCTYPE html>
    <p class="mdc-typography"> 
    感谢您对流量消耗事业做出的贡献!  </br> 
    
-   如您为移动19元芝麻卡套餐用户，欢迎加企鹅群 <a href="https://api.vv1234.cn/JumpURL/share/jiaqun178317823.php"> 178317823 </a>讨论交流</br> 
+   如您为移动19元芝麻卡套餐用户，欢迎加企鹅群 <a href="https://localhostt/JumpURL/share/jiaqun178317823.php"> 178317823 </a>讨论交流</br> 
    
    
-  收藏本页： <a href="https://api.vv1234.cn/llxhq/">https://api.vv1234.cn/llxhq/</a>
+  收藏本页： <a href="https://localhostt/llxhq/">https://localhostt/llxhq/</a>
  
    </p>
 

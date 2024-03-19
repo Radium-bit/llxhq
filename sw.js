@@ -2,34 +2,34 @@
 const CACHE_VERSION = '1.0.0';
 // 常缓存文件，可自由添加
 const BASE_CACHE_FILES = [
-    'https:///api.vv1234.cn/llxhq/css/dashlite.css',
-    'https:///api.vv1234.cn/llxhq/css/style.css',
-    'https://api.vv1234.cn/llxhq/fonts/Nioicon.ttf',
-    'https://api.vv1234.cn/llxhq/js/common.js',
-	'https://api.vv1234.cn/llxhq/js/nioapp.min.js',
-	'https://api.vv1234.cn/llxhq/js/script.js',
-	'https://api.vv1234.cn/llxhq/js/common.js',
+    'https:///localhost/llxhq/css/dashlite.css',
+    'https:///localhost/llxhq/css/style.css',
+    'https://localhost/llxhq/fonts/Nioicon.ttf',
+    'https://localhost/llxhq/js/common.js',
+	'https://localhost/llxhq/js/nioapp.min.js',
+	'https://localhost/llxhq/js/script.js',
+	'https://localhost/llxhq/js/common.js',
     'https://cdn.staticfile.org/jquery/3.6.0/jquery.min.js',
 	'https://cdn.staticfile.org/jquery/3.6.0/jquery.min.js',
 	'https://cdn.staticfile.org/jquery/3.6.0/jquery.min.js',
     'https://cdn.staticfile.org/bootstrap/4.6.1/js/bootstrap.bundle.min.js',
     'https://cdn.staticfile.org/layer/3.5.1/layer.js',
-	'https://api.vv1234.cn/js/fuqiang.js',
+	'https://localhost/js/fuqiang.js',
 	'https://cdn.staticfile.org/vue/2.6.14/vue.min.js',
 	'https://cdn.staticfile.org/axios/0.26.0/axios.min.js',
-    'https://wx1.vv1234.cn/favicon.ico'
+    'https://cloudflare.com/favicon.ico'
 ];
 // 离线缓存首页
 const OFFLINE_CACHE_FILES = [
-    'https://api.vv1234.cn/llxhq/',
+    'https://localhost/llxhq/',
 ];
 // 未找到缓存文件时返回
 const NOT_FOUND_CACHE_FILES = [
-    'https://api.vv1234.cn/llxhq/',
+    'https://localhost/llxhq/',
 ];
 // 离线缓存首页和未找到缓存文件时返回
-const OFFLINE_PAGE = 'https://api.vv1234.cn/llxhq/';
-const NOT_FOUND_PAGE = 'https://api.vv1234.cn/llxhq/';
+const OFFLINE_PAGE = 'https://localhost/llxhq/';
+const NOT_FOUND_PAGE = 'https://localhost/llxhq/';
 
 const CACHE_VERSIONS = {
     content: 'content-v' + CACHE_VERSION,
