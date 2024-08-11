@@ -3,11 +3,12 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>流量消耗器  https://localhost/llxhq/ </title>
-    <meta name="keywords" content="流量消耗器,流量杀手,https://localhost/llxhq/">
-    <meta name="description" content="流量消耗器，web版流量杀手，https://localhost/llxhq/。">
+    <title>流量消耗器  https://api.vv1234.cn/llxhq/ </title>
+    <meta name="keywords" content="流量消耗器,流量杀手,https://api.vv1234.cn/llxhq/">
+    <meta name="description" content="流量消耗器，web版流量杀手，https://api.vv1234.cn/llxhq/。">
     <link rel="stylesheet" href="css/dashlite.css">
 	<link rel="stylesheet" href="css/style.css?v=20220626">
+	<link rel="shortcut icon" href="//wx1.vv1234.cn/favicon.ico">
 	<link rel="manifest" href="manifest.json">
 	<script type="text/javascript">
 	if (navigator.serviceWorker != null) {
@@ -132,6 +133,11 @@
                 <span class="nk-menu-text font-weight-bold">流量消耗器</span>
             </div>
             <div class="form-group">
+              <p> <b>声明</b>：本工具仅自用，并无后门，且工作原理很简单，就是js来替你循环下载一些资源文件而已，不放心用可以不用哈，不用非得踩一脚说我会往你手机下载木马病毒！</p>
+		    
+                
+			<p><a href="https://api.vv1234.cn/JumpURL/share/llxhq_ad_tiaozuan.php" class="nk-menu-link nk-ibx-action-item"><img src="https://wx1.vv1234.cn/2022/08/21/1086301d4ea0e6f9.gif" alt="AD-IMG" title="AD-IMG" width="300" height="30"  /></a></p>
+			
 			<p>Tip:速度不满意？请尝试手工切换节点，加大线程<br/>带的箭头↓👇的为主分类，请点击箭头下方的内容</p>
                 <label class="form-label"></label>
           <h6><em class="icon ni ni-info"></em> 下载链接</h6>        
@@ -168,8 +174,8 @@
 			<option value="https://img10.360buyimg.com/live/jfs/t1/128947/12/26918/1361527/6260e71bE0ee85af5/ecaa17ea8dd3dddb.jpg">京东商城图片CDN服务</option>
 					<optgroup label="👇👇  网易 👇👇">
 			<option value="https://n.v.netease.com/2022/1206/de4b6add85f1537da839bdb5a501253d.mp4">逆水寒官网静态资源</option>
-			<option value="https://nsh.gdl.netease.com/NGP/NGP_NSH_2.0.81293.exe">逆水寒客户端</option>
-			<option value="https://x19.gdl.netease.com/MCLauncher_1.13.0.34938.exe">MCLauncher网易版(阿里CDN)</option>
+			<option value="https://nsh.gdl.netease.com/NGP/NGP_NSH_2.0.81143.exe">逆水寒客户端</option>
+			<option value="https://x19.gdl.netease.com/MCLauncher_1.10.0.15222.exe">MCLauncher网易版(阿里CDN)</option>
 			<option value="https://mov.bn.netease.com/open-movie/nos/mp4/2015/11/26/SB8ECV1ST_sd.mp4">网易公开课(白云山CDN)</option> 
 			<option value="https://nsh.gdl.netease.com/cloudgame_macos/NSH_cloud_game_for_mac_1.4.6_2023_06-02-11.dmg">网易云游戏</option> 
 					<optgroup label="👇👇  蓝绿大厂 👇👇">
@@ -192,14 +198,11 @@
 					<optgroup label="👇👇 拼多多 👇👇">
 		   <option value="https://funimg.pddpic.com/c3affbeb-9b31-4546-b2df-95b62de81639.png.slim.png">拼多多H5官网静态资源-图像小文件</option> 
 			<option value="https://t00img.yangkeduo.com/chat/images/2022-12-12/79e0a4684de85c7b59f797819260be98.jpeg">拼多多IMG/CDN资源文件</option> 
-            <option value="https://cd.pddpic.com/android_dev/2024-03-14/c4399010660b8ba0be94d81c65519939.apk">拼多多安装包</option>
 					<optgroup label="👇👇 国内其他大厂 👇👇">
 			<option value="https://dh5.cntv.myhwcdn.cn/asp/h5e/hls/1200/0303000a/3/default/ec48b9f8c76e49af842d4942914ad663/1.ts">CCTV</option>
-            <option value="https://app.123pan.com/app/pc/darwin/amd64/132/123pan-2.0.6-x64.dmg">123云盘</option>
 			<option value="https://cdn.aixifan.com/downloads/AcFun-acfunh5-release-6.62.0.1238_x64_60b608.apk">AcFun</option>
 			<option value="https://shark2.douyucdn.cn/front-publish/live-master/lib/vendor-room_4e3a873.js">斗鱼CDN-小文件</option>
 			<option value="https://dn-mars-assets.qbox.me/qiniulog/img-slogan-white-en.png">七牛云</option>
-            <option value="https://static.steambig.com/package/2023/06/16/TpQCy2/Steambig_pc601_3.0.1.3.exe">PC6下载站虚假Steam</option>
 			<option value="https://picture.xianniu.com/pc/download/4.6.9.3/xianniusetup.4.6.9.3.exe">鲜牛加速器(华为云CDN)</option>
 			<option value="https://gh.con.sh/https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases/download/v2.21.12/Waifu2x-Extension-GUI-v2.21.12-Portable.7z">GitHub文件加速(cloudflare CDN)</option>
 					<optgroup label="👇👇 海外优选节点 👇👇">
@@ -209,9 +212,8 @@
 			<option value="https://nj-us-ping.vultr.com/vultr.com.1000MB.bin">Vultr 1G(纽约)</option>
 			<option value="https://speedtest.tokyo2.linode.com/100MB-tokyo2.bin">Linode 100MB(日本省东京市)</option>
 			<option value="https://emp.bbci.co.uk/emp/dashjs/3.2.0-8/dash.all.min.js">BBC中文网</option>
-            <option value="https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb_7772501.ts">RT今日俄罗斯直播流</option>
 					<optgroup label="👇👇 接口并发测试 👇👇">
-			<option value="https://localhost/bing/api.php?idx=-1" >必应壁纸API</option>
+			<option value="https://api.vv1234.cn/bing/api.php?idx=-1" >必应壁纸API</option>
 			</select>
 		 <input style="" type="text" v-model="set.input" placeholder="直接在输入框内输入文件资源的下载链接即可，适用于未开启防盗链的直链资源，不支持网盘资源解析" class="form-control" autocomplete="off">
            
@@ -271,6 +273,29 @@
 				 <p>	
 				 <hr>
 				 
+				 
+				 <p> 感谢您对流量消耗事业做出的贡献!</p>
+				 <p>  如您为移动19元芝麻卡套餐用户，欢迎加企鹅群 <a href="//api.vv1234.cn/JumpURL/share/jiaqun178317823.php" target="_blank"> 178317823 </a> 讨论交流</p>
+				 
+					 
+				 
+            <p>您的访问信息如下：</p>
+			<li class="nk-menu-item ">
+		    <p class="text-danger"><script>ipinfo()</script></p> 
+		   <p>
+		   </li>
+		  <a href="https://ip.vv1234.cn" target="_blank"><img src="https://ip.vv1234.cn/ipx/" onError="this.src='https://api.szfx.top/info-card/?word=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E8%AE%BF~'"></a> 
+		   </p>
+		  <a href="old-index.php" target="_blank" class="nk-menu-link nk-ibx-action-item">→ 点我切换回旧版 ←</a>
+			 <hr>	
+			   
+	 <p>最近更新:  <a href="version-update.php" target="_blank" rel="noopener" data-pjax-state="">20240128</a>  </p>
+	   <p> 日常更新：更新/移除部分失效资源链接，优化国内部分地区访问速度</p>
+	 
+	  <p>功能优化:对于网络波动及第三方资源访问故障等网络错误问题造成的执行中断,改为仍然强制执行!</p>
+	 	 <p>为降低终端设备CPU占用,暂时关闭网页特效,默认线程调整为10</p>	 
+		 <hr>	
+	 <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JjhvoI5bfYbANJBZ/quote.js?theme=0&f=12&display=1,1,1,1,0,1,1,1"></script>
 	 <br/>
 	   
 	   
@@ -282,14 +307,14 @@
 
        <div class="mt-5 text-center">
            <p id='hitokoto' class="text-gray"></p>
-     <a href="https://localhost/llxhq/" class="btn btn-sm btn-outline-light ">
+     <a href="https://api.vv1234.cn/llxhq/" class="btn btn-sm btn-outline-light ">
            <em class="icon ni ni-heart"> 收藏本页地址</em> <em class="icon ni ni-heart"> </em>
 		   </a>
 		   <br/>
 		    
 		    <br/>
-		<a href="https://localhost/llxhq/" class="btn btn-sm btn-outline-light "> 	
-		<span class="nk-menu-link nk-ibx-action-item">https://example.com</span>  
+		<a href="https://api.vv1234.cn/llxhq/" class="btn btn-sm btn-outline-light "> 	
+		<span class="nk-menu-link nk-ibx-action-item">https://api.vv1234.cn/llxhq/</span>  
 		</a>	
             </div>
         </div>
@@ -305,9 +330,9 @@
 <!-- footer @e -->
     </div>
     <!-- wrap @e -->
-<script src="//cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
-<script src="//cdn.jsdelivr.net/gh/layui/layer@3.5.1/dist/layer.js"></script>
+<script src="//cdn.staticfile.net/jquery/3.6.0/jquery.min.js"></script>
+<script src="//cdn.staticfile.net/bootstrap/4.6.1/js/bootstrap.bundle.min.js"></script>
+<script src="//cdn.staticfile.net/layer/3.5.1/layer.js"></script>
 <script src="js/nioapp.min.js"></script>
 <script src="js/script.js"></script>
 <script src="js/common.js"></script>
@@ -327,8 +352,8 @@ $(document).ready(function(){
 })
 </script>
 
-<script src="//cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/axios@0.26.0/dist/axios.min.js"></script>
+<script src="//cdn.staticfile.net/vue/2.6.14/vue.min.js"></script>
+<script src="//cdn.staticfile.net/axios/0.26.0/axios.min.js"></script>
 <script>
 var errors = null
 new Vue({
@@ -484,7 +509,7 @@ new Vue({
     var realTimeElement = document.getElementById('realTime');
 // 定期更新实时时间
     function updateRealTime() {
-        fetch('https://localhost/time/api.php')
+        fetch('https://api.vv1234.cn/time/api.php')
             .then(response => response.text())
             .then(data => {
                 // 输出响应内容到控制台
@@ -501,7 +526,7 @@ new Vue({
                     realTimeElement.textContent = realTime;
 
                     // 打印输出到控制台
-                    // console.log('Real-Time:', realTime);
+                    console.log('Real-Time:', realTime);
                 } else {
                     console.error('Invalid timestamp format:', data);
                 }
@@ -521,6 +546,11 @@ new Vue({
 
 <script>
 document.onkeydown = function(){
+  if(window.event && window.event.keyCode == 123) {
+    alert("F12被禁用");
+    event.keyCode=0;
+    event.returnValue=false;
+  }
   if(window.event && window.event.keyCode == 13) {
     window.event.keyCode = 505;
   }
@@ -556,29 +586,29 @@ return false;
 
 
 <!-- 流量统计代码  20231117 放到最后延迟加载，避免页面长时间无响应  -->
-	<!-- <script src="//localhost/ip/api.php?action=getip&code=js&token=test&from=llxhq"></script>
+	<script src="//api.vv1234.cn/ip/api.php?action=getip&code=js&token=test&from=llxhq"></script>
 	<script src="//v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 	<script charset="UTF-8" id="LA_COLLECT" src="//fx.2ge.org/js-sdk-pro.min.js"></script>
 	<script>LA.init({id: "JjhvoI5bfYbANJBZ",ck: "JjhvoI5bfYbANJBZ",autoTrack:true,hashMode:true})</script>
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4745983596040533"
-	     crossorigin="anonymous"></script> -->
+	     crossorigin="anonymous"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114909353-1"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114909353-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
     
       gtag('config', 'UA-114909353-1');
-    </script> -->
+    </script>
 
 <!-- 
 //临时关闭网页特效，以降低客户机负载
 <script src="//wx1.vv1234.cn/o_1bdgnn8ljls4ihk1aq6cjq1fooa.js"></script> -->
 
-<!-- <script src="//localhost/js/fuqiang.js?20220629"></script> -->
+<script src="//api.vv1234.cn/js/fuqiang.js?20220629"></script>
 <!-- 
-<script src="//localhost/js/luoye.js?20220629"></script>
+<script src="//api.vv1234.cn/js/luoye.js?20220629"></script>
 <script type="text/javascript">jQuery(document).ready(function($){
 $('body').wpSuperSnow({
 //flakes: ['https://aliyun.ccswust.org/1/img/007.png ' ,'https://aliyun.ccswust.org/1/img/006.png','https://aliyun.ccswust.org/1/img/004.png','https://aliyun.ccswust.org/1/img/002.png','https://aliyun.ccswust.org/1/img/001.png','https://aliyun.ccswust.org/1/img/003.png','https://aliyun.ccswust.org/1/img/002.png','https://aliyun.ccswust.org/1/img/001.png'],

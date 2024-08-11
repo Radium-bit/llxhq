@@ -9,7 +9,7 @@ Radium-bit修改说明：
 
 追加了一个虚假Steam、拼多多安装包消耗项目。
 
-修复了网易MC Launcher的下载链。
+
 
 移除了在页面中关于*api.vv1234.cn*的自动请求，以防止可能的，不必要的数据跟踪。
 
@@ -20,6 +20,10 @@ Radium-bit修改说明：
 修改源文件的假index.php，以便在本地服务器直接打开。
 
 移除了部分页面特效和点击文字特效。
+
+修改*cdn.staticfile.org*的恶意CDN链接，改为jsdelivr，原因详见[此处](https://github.com/uBlockOrigin/uAssets/issues/24711)
+
+
 
 以下为原作原文README：
 
